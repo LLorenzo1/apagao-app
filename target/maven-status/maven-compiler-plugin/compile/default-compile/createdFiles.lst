@@ -1,0 +1,8 @@
+com\apagao\controller\CepController.class
+com\apagao\service\AlertaService.class
+com\apagao\model\Endereco.class
+com\apagao\service\ImpactoFinanceiroService.class
+com\apagao\service\CepService.class
+com\apagao\App.class
+com\apagao\service\LocalSeguroService.class
+com\apagao\AppFX.class
