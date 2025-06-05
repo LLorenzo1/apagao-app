@@ -1,4 +1,4 @@
-# 🔌 Assistente de Apoio em Falta de Energia
+# Assistente de Apoio em Falta de Energia
 
 Este é um aplicativo Java feito com uma interface gráfica (JavaFX) que consome múltiplas APIs com intuito de fornecer suporte para usuários afetados por queda de energia elétrica. Ele faz o uso do CEP do usuário para realizar diversas ações úteis e informativas, como mostrar coordenadas, locais seguros e simular prejuízos financeiros.
 
